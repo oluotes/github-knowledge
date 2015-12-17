@@ -6,6 +6,13 @@
   <artifactId>customerservice</artifactId>
   <version>1.0</version>
   <name>customerservice</name>
+  	<dependencies>
+		<dependency>
+			<groupId>com.winteam.language</groupId>
+			<artifactId>customerservice</artifactId>
+			<version>1.6</version>
+		</dependency>
+	</dependencies>
   <build>
     <plugins>
       <plugin>
